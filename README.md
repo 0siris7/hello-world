@@ -1,3 +1,4 @@
 # hello-world
 A test repo to test out github
-greetings fella humans
+THese are the best of times and the worst of times.
+print("Hello world")
